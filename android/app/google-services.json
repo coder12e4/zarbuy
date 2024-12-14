@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508962113308",
+    "project_id": "zarbuy-dd273",
+    "storage_bucket": "zarbuy-dd273.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508962113308:android:deeaaebc3fafc12fffdcd9",
+        "android_client_info": {
+          "package_name": "com.zartechinterviewflutter.zarbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508962113308-orpkamb3jop0rl95hupq0m34tm9h7j2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zartechinterviewflutter.zarbuy",
+            "certificate_hash": "5799a95100669acbdb8fffd2ab954334178cf15b"
+          }
+        },
+        {
+          "client_id": "508962113308-nelv51dpunrbmapvueaq51ekhgd271si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaNkV85sI85o0I8QMpxNScyvG7-qST-bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508962113308-nelv51dpunrbmapvueaq51ekhgd271si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
